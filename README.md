@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sahayak AI
 
 Sahayak is a local-first personal assistant prototype. Its responsive dashboard
@@ -100,3 +101,6 @@ implemented yet.
 ```powershell
 .\.venv\Scripts\python.exe -m unittest backend.test_app
 ```
+=======
+# AI-Based-Personal-Assistant
+>>>>>>> 071d3f073ef544c4db0b7bab2c1d2bbd7a82b7ad
