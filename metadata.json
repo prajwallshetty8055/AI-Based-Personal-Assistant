@@ -1,0 +1,6 @@
+{
+  "name": "Sahayak AI",
+  "description": "Your personal assistant for reminders, focus, tasks, and learning.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "permissions": []
+}
